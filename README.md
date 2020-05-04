@@ -1,6 +1,8 @@
 # chat-server
 Websocket chat server
-Servear part of simple adnroid cryptochat: https://github.com/varsey/simple-android-cryptochat
+
+Server part of simple adnroid cryptochat:
+https://github.com/varsey/simple-android-cryptochat
 
 Create virtual machine open: ext (Ingress) IP: 0.0.0.0/0  TCP port 8881
 
