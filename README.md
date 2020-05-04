@@ -12,11 +12,11 @@ prereq
 - apt-get install openjdk-8-jdk maven -y
 
 clone server proj
--git clone https://github.com/varsey/skill-chat-server
+- git clone https://github.com/varsey/skill-chat-server
 
 unpack it
--tar -xzf ./chat-server.tar.gz
+- tar -xzf ./chat-server.tar.gz
 
 run inside of unpacked folder:
--mvn clean install
--mvn exec:java
+- mvn clean install
+- mvn exec:java
