@@ -1,5 +1,6 @@
-# skill-chat-server
+# chat-server
 Websocket chat server
+Servear part of simple adnroid cryptochat: https://github.com/varsey/simple-android-cryptochat
 
 Create virtual machine open: ext (Ingress) IP: 0.0.0.0/0  TCP port 8881
 
@@ -9,7 +10,7 @@ apt-get update
 apt-get install openjdk-8-jdk maven -y
 
 #clone server proj
-git clone https://github.com/Scalar4eg/skill-chat-server
+git clone https://github.com/varsey/skill-chat-server
 
 #unpack it
 tar -xzf ./chat-server.tar.gz
